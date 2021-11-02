@@ -27,11 +27,12 @@
 [facebook]: https://www.facebook.com/delowarsikder.108
 [mail]: mailto:sikder1607094@stud.kuet.ad.bd
 
-<br>
+<!-- <br>
 <br>
 
 ## 🛠 Tech stack:
 <img title="Programming languages" align="center" alt="Programming languages" width="24px" src="https://img.icons8.com/nolan/64/programming.png"> 
+
 - <img title="C" align="center" alt="C" width="20px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"> <img title="C++" align="center" alt="C++" width="20px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png">
 <img title="C#" align="center" alt="C#" width="20px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png">
 <img title="Python" align="center" alt="Python" width="20px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png">
@@ -43,7 +44,7 @@
 -<img title="Windows 10" align="center" alt="Windows 10" width="25px" src="https://img.icons8.com/fluent/48/000000/windows-10.png">
 <img title="Ubuntu" align="center" alt="Ubuntu" width="25px" src="https://img.icons8.com/color/48/000000/ubuntu.png">
 <img title="Kali Linux" align="center" alt="Kali Linux" width="25px" src="https://img.icons8.com/color/48/000000/kali-linux.png"> 
-<img title="Mac OS" align="center" alt="Mac OS" width="25px" src="https://img.icons8.com/color/48/000000/mac-os-logo.png">
+<img title="Mac OS" align="center" alt="Mac OS" width="25px" src="https://img.icons8.com/color/48/000000/mac-os-logo.png"> -->
 
 ## 🌱 Hobby:
     Learning on the daily basis.
