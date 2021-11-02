@@ -1,18 +1,17 @@
 ### Hi there, I'm [Delowar Sikder](https://delowarsikder.github.io/)👋
 
-### A passionate Developer 🚀 and Love to write ✍ code for an easier life
+### A passionate problem solver 🚀 and Love to write ✍ code for an easier life
 <br>
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/21988951/98481083-000cbf80-2222-11eb-9b3f-31e4235a009d.gif" >
 
-- 💼 Status - Actively looking for job opportunities.
-- 🔭 I’m currently working on - [LeetCode problem solving.](https://leetcode.com/problemset/all/)
-- 🌱 I’m currently learning - [Angular](https://angular.io/)
-- 👯 I’m looking to collaborate on - ML / DL / AI projects.
-- 🤔 I’m looking for help with - [Django Project.](https://www.djangoproject.com/)
-- 🎯 2021 Goals: Contribute more to Open Source projects.
-- 💬 Ask me about - Machine Learning, Image Processing, Networking.
+- 💼 Status - Actively looking for job opportunities in Software Industries.
+- 🔭 I’m currently working on - [Hacker Rank problem solving.](https://www.hackerrank.com/delowar094)
+<!-- - 🌱 I’m currently learning - [Angular](https://angular.io/) -->
+- 👯 I’m looking to collaborate on -Full Stack Developemnt/ ML / DL / AI projects.
+<!-- - 🤔 I’m looking for help with - [Django Project.](https://www.djangoproject.com/) -->
+<!-- - 🎯 2021 Goals: Contribute more to Open Source projects. -->
+<!-- - 💬 Ask me about - Machine Learning, Image Processing, Networking. -->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/delowarsikder/)
-- ⚡ Fun fact: I've learned a bit Russian from CS:GO.
 
 ![Delowar's github stats](https://github-readme-stats.vercel.app/api?username=delowarsikder&show_icons=true&theme=merko)
 
@@ -49,7 +48,7 @@
 ## 🌱 Hobby:
     Learning on the daily basis.
 
-## Random Thinking 
+## Creative Thinking 
 
 ![0 gqO3slLmGb4mUeje](https://user-images.githubusercontent.com/56478257/96973368-6bbe0f80-1535-11eb-968b-361d1e724b3a.gif)
  <br>
