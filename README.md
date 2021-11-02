@@ -7,7 +7,7 @@
 - 💼 Status - Actively looking for job opportunities in Software Industries.
 - 🔭 I’m currently working on - [Hacker Rank problem solving.](https://www.hackerrank.com/delowar094)
 <!-- - 🌱 I’m currently learning - [Angular](https://angular.io/) -->
-- 👯 I’m looking to collaborate on -Full Stack Developemnt/ ML / DL / AI projects.
+- 👯 I’m looking to collaborate on -Full Stack Developement/ ML / DL / AI projects.
 <!-- - 🤔 I’m looking for help with - [Django Project.](https://www.djangoproject.com/) -->
 <!-- - 🎯 2021 Goals: Contribute more to Open Source projects. -->
 <!-- - 💬 Ask me about - Machine Learning, Image Processing, Networking. -->
