@@ -1,7 +1,7 @@
 ## Hi there, I'm [Delowar Sikder](https://delowarsikder.github.io/)👋
-- A passionate problem solver 🚀 and Love to write ✍ code.Simple living with high thinking
+- A passionate problem solver 🚀 and Love to write ✍ code.Like to Simple living with high thinking.
 
-👨‍🎓 B.Sc. in Computer Science and Engineering from  **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd/cse)** 
+👨‍🎓 I have Completed my B.Sc(Engr.) in Computer Science and Engineering from  **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd/cse)** 
 
 
 <img align="center" width="300px" height="200px" src="https://user-images.githubusercontent.com/21988951/98481083-000cbf80-2222-11eb-9b3f-31e4235a009d.gif" >
@@ -19,11 +19,24 @@
 <!-- - 💬 Ask me about - Machine Learning, Image Processing, Networking. -->
 <!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/delowarsikder/) -->
 
-![Delowar's github stats](https://github-readme-stats.vercel.app/api?username=delowarsikder&show_icons=true&theme=merko)
+<!-- ![Delowar's github stats](https://github-readme-stats.vercel.app/api?username=delowarsikder&show_icons=true&theme=merko) -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=delowarsikder&theme=merko" alt="delowarsikder"/>  -->
 <!-- ## Contribution Graph
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=delowarsikder&theme=github" alt="delowarsikder" /></p>  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delowarsikder)](https://github.com/delowarsikder/github-readme-stats)
-## Profile View
-![Profile views](https://gpvc.arturio.dev/delowarsikder)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delowarsikder)](https://github.com/delowarsikder/github-readme-stats) -->
+
+
+<a href="https://github.com/delowarsikder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=delowarsikder&show_icons=true&theme=merko" />
+</a>
+
+<a href="https://github.com/delowarsikder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delowarsikder" />
+</a>
+
+
+
+
+<!-- ### Profile View -->
+<!-- ![Profile views](https://gpvc.arturio.dev/delowarsikder) -->
