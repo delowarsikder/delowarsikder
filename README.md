@@ -27,13 +27,13 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delowarsikder)](https://github.com/delowarsikder/github-readme-stats) -->
 
 
-<a href="https://github.com/delowarsikder">
+<!-- <a href="https://github.com/delowarsikder">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=delowarsikder&show_icons=true&theme=merko" />
-</a>
+</a> 
 
 <a href="https://github.com/delowarsikder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delowarsikder" />
-</a>
+</a> -->
 
 
 
