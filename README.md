@@ -1,7 +1,8 @@
 ## Hi there, I'm [Delowar Sikder](https://delowarsikder.github.io/)👋
+
 - A passionate problem solver 🚀 and Love to write ✍ code.Like to Simple living with high thinking.
 
-👨‍🎓 I have Completed my B.Sc(Engr.) in Computer Science and Engineering from  **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd/cse)** 
+👨‍🎓 I have Completed my B.Sc(Engr.) in Computer Science and Engineering from  **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd/cse)**
 
 <div align="center">
 <img width="200px" height="150px" src="https://user-images.githubusercontent.com/21988951/98481083-000cbf80-2222-11eb-9b3f-31e4235a009d.gif" >
@@ -9,7 +10,8 @@
 
 <div>
 
-## Connect with me:
+## Connect with me
+
 [![Linkedin Badge](https://img.shields.io/badge/-DelowarSikder-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/delowarsikder/)](https://www.linkedin.com/in/delowarsikder/)&nbsp;&nbsp;[![Facebook Badge](https://img.shields.io/badge/-DelowarSikder-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/delowarsikder.108)](https://facebook.com/delowarsikder.108)&nbsp;&nbsp; [![Hackerrank Badge](https://img.shields.io/badge/-Delowar094-03a57a?style=flat&labelColor=000000&logo=hackerrank&link=https://www.hackerrank.com/delowar094/)](https://www.hackerrank.com/delowar094)&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-delowarsikder099@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:delowarsikder099@gmail.com)](mailto:delowarsikder099@gmail.com)&nbsp;&nbsp;  [![Portfolio Badge](https://img.shields.io/badge/-delowarsikder.github.io-green?style=flat&logo=html5&logoColor=white&link=https://delowarsikder.github.io)](https://delowarsikder.github.io)
 
 </div>
@@ -19,7 +21,33 @@
 💻 Tech Stack
 </h2>
 
-<div align="center">
+<div>
+
+### Languages
+
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+</div>
+
+<div>
 
 <span>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)</span>
 <span> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=badge&logo=c&logoColor=white)</span>
@@ -45,6 +73,7 @@
 <span>![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=badge&logo=docker&logoColor=white) </span>
 <span>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=badge&logo=postman&logoColor=white)
 </div>
+
 </div>
 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
@@ -58,24 +87,13 @@
 <!-- - 💬 Ask me about - Machine Learning, Image Processing, Networking. -->
 <!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/delowarsikder/) -->
 
-<!-- ![Delowar's github stats](https://github-readme-stats.vercel.app/api?username=delowarsikder&show_icons=true&theme=merko) -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=delowarsikder&theme=merko" alt="delowarsikder"/>  -->
-<!-- ## Contribution Graph
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=delowarsikder&theme=github" alt="delowarsikder" /></p>  -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delowarsikder)](https://github.com/delowarsikder/github-readme-stats) -->
-
-
-<!-- <a href="https://github.com/delowarsikder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=delowarsikder&show_icons=true&theme=merko" />
-</a> 
-
-<a href="https://github.com/delowarsikder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delowarsikder" />
-</a> -->
-
-
-
+## Overview
+<a href="https://www.delowarsikder.com/">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=delowarsikder&show_icons=true&theme=merko" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delowarsikder&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=delowarsikder&theme=merko&hide=html&hide_title=false&hide_border=true&layout=compac"
+ alt="delowarsikder"/> 
+</a>
 
 <!-- ### Profile View -->
 <!-- ![Profile views](https://gpvc.arturio.dev/delowarsikder) -->
